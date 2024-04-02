@@ -1,6 +1,6 @@
 
 body {
-    background-image: url('C:\Users\hp\Downloads\marksheets\website\download.jfif');
+    background-image: url('./download.jfif');
     background-size: cover;
     background-position: center;
     font-family: Arial, sans-serif;
